@@ -122,12 +122,16 @@ A aplicação será desenvolvida com **TypeScript**, **React** com **Vite**, est
 Dentro do cursor, crie o arquivo AmbienteDesenvolvimento.md e cole este conteúdo.
 Dê o título: # MVP – Primeira Funcionalidade
 
-Boas práticas:
+Boas práticas da engeneharia de Software:
 
 -   Reveja tudo que foi adicionado
 -   Atualize a documentação do projeto nos arquivos .md
 -   Teste a aplicação
+-   refatore o código
 -   Inicialize o controle de versão
+
+Inicialize o controle de versão: Adicionado git ao projeto:
+No prompt do cursor digite: Adicione o git a este projeto
 
     Incremento 02: Construção e validação do MVP (mínimo produto viável).
 

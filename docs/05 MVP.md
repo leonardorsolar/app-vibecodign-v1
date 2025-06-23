@@ -42,3 +42,9 @@ Assim que o processo terminar de inicializar,
 você poderá acessar o aplicativo no navegador
 (geralmente em http://localhost:5173 ou endereço indicado no terminal)
 para testar a funcionalidade de adicionar tarefas.
+
+Controle de versão:
+
+git init && git add . && git commit -m "feat: projeto inicial com MVP de tarefas (React, TS, Tailwind, Context, LocalStorage)"
+
+O Git foi inicializado no projeto, todos os arquivos foram adicionados e o primeiro commit foi criado com a mensagem:
