@@ -20,8 +20,11 @@ export default function FormularioTarefa() {
         placeholder="Nova tarefa"
         value={titulo}
         onChange={e => setTitulo(e.target.value)}
+        data-testid="input-tarefa"
       />
-      <button type="submit" className="bg-blue-500 text-white px-4 py-1 rounded hover:bg-blue-600">
+      <button type="submit" className="bg-blue-500 text-white px-4 py-1 rounded hover:bg-blue-600"
+        data-testid="btn-adicionar"
+      >
         Adicionar Tarefa
       </button>
     </form>
