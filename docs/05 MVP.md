@@ -47,4 +47,7 @@ Controle de versão:
 
 git init && git add . && git commit -m "feat: projeto inicial com MVP de tarefas (React, TS, Tailwind, Context, LocalStorage)"
 
-O Git foi inicializado no projeto, todos os arquivos foram adicionados e o primeiro commit foi criado com a mensagem:
+O Git foi inicializado no projeto, todos os arquivos foram adicionados e o primeiro commit foi criado.
+
+Criação da estrutura de pastas do projeto com os arquivos pelo agente em
+docs/diagrama-pastas.md
